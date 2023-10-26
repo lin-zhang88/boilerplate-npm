@@ -2,6 +2,7 @@
 	"author": "Lin Zhang",
 	"name": "fcc-learn-npm-package-json",
 	"description": "a project that does something.",
+	"keywords": [ "freecodecamp", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
