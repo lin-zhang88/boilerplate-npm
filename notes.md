@@ -10,3 +10,8 @@ This means that PATCHes are bug fixes and MINORs add new features but neither of
 To allow an npm dependency to update to the latest PATCH version, you can prefix the dependency’s version with the tilde (~) character. Here's an example of how to allow updates to any 1.3.x version.
 ex:
 "package": "~1.3.8"
+----
+Use the Caret-Character to Use the Latest Minor Version of a Dependency
+ex:
+"package": "^1.3.8"
+If you were to use the caret (^) as a version prefix instead, npm would be allowed to update to any 1.x.x version.
