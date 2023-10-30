@@ -4,7 +4,8 @@
 	"description": "a project that does something.",
 	"keywords": [ "freecodecamp", "related", "words" ],
 	"dependencies": {
-		"express": "^4.14.0"
+		"@freecodecamp/example": "1.1.0",
+		"express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
